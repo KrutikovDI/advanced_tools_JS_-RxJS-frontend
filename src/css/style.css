@@ -1,0 +1,29 @@
+
+
+.field{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.incoming{
+    width: 700px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.email{
+    width: 370px;
+}
+
+.text{
+    width: 160px;
+}
+
+.h4{
+    font-weight: normal;
+}
